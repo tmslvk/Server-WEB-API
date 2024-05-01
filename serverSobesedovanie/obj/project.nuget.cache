@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "6JyvCOg1Suug6IyCb/Rrb6m6k5C7H8vCjjVzr6zH06kwijfobN8X8/e5CkCnY54Q+dBh5WYomWyKcl5DaMb4aw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Тима\\source\\repos\\serverSobesedovanie\\serverSobesedovanie\\serverSobesedovanie.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Тима\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Тима\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Тима\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Тима\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Тима\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Тима\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
