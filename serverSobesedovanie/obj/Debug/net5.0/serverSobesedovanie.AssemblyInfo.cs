@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("serverSobesedovanie")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+54b30456ecaa1393b7c92338919ea5b2100bac62")]
 [assembly: System.Reflection.AssemblyProductAttribute("serverSobesedovanie")]
 [assembly: System.Reflection.AssemblyTitleAttribute("serverSobesedovanie")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
